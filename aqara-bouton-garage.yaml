@@ -3,7 +3,7 @@ blueprint:
   description: Automate your Xiaomi Aqara Wireless Mini Switch using ZHA events.
   domain: automation
   input:
-    aqara_mini_switch:
+    bouton_garage:
       name: Aqara Wireless Mini Switch
       description: Aqara Wireless Mini Switch to use
       selector:
